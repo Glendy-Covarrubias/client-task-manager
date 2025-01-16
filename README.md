@@ -38,3 +38,9 @@ Pasos para correr la aplicación
  - Paso 2) npm run dev
  - Paso 3) Abrir la url donde se esta ejecutando la aplicación http://localhost:5173/
  - Paso 4) Para detener el proyecto es ctrl + c luego sale una pregunta y ponemos S
+
+
+https://github.com/user-attachments/assets/21410e77-daa5-46d2-8ac5-ceef2379ad0e
+
+
+
